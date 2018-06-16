@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.840,=C:\Users\111\Desktop\ИВТ\Unit11.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.296,=C:\Users\111\Desktop\ИВТ\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.112,=C:\Users\111\Desktop\ИВТ\Unit10.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.719,=C:\Users\111\Desktop\ИВТ\Unit7.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.936,=C:\Users\111\Desktop\ИВТ\Unit13.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.040,=C:\Users\111\Desktop\ИВТ\Unit14.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.802,=C:\Users\111\Desktop\ИВТ\Unit14.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.211,=C:\Users\111\Desktop\ИВТ\Unit17.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.435,=C:\Users\111\Desktop\ИВТ\Unit18.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.315,=C:\Users\111\Desktop\ИВТ\Unit15.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.820,C:\Users\111\Documents\RAD Studio\Projects\Unit2.dfm=C:\Users\111\Desktop\ИВТ\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.306,=C:\Users\111\Desktop\ИВТ\Unit6.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.171,=C:\Users\111\Documents\RAD Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.306,C:\Users\111\Documents\RAD Studio\Projects\Unit3.pas=C:\Users\111\Desktop\ИВТ\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.215,=C:\Users\111\Desktop\ИВТ\Unit9.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.820,C:\Users\111\Documents\RAD Studio\Projects\Unit2.pas=C:\Users\111\Desktop\ИВТ\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.065,=C:\Users\111\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.997,=C:\Users\111\Desktop\ИВТ\Unit12.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.514,=C:\Users\111\Desktop\ИВТ\Unit8.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.346,C:\Users\111\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\111\Desktop\ИВТ\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.788,=C:\Users\111\Desktop\ИВТ\Unit16.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.207,=C:\Users\111\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.986,=C:\Users\111\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.346,C:\Users\111\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\111\Desktop\ИВТ\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.306,C:\Users\111\Documents\RAD Studio\Projects\Unit3.dfm=C:\Users\111\Desktop\ИВТ\Unit3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.853,=C:\Users\111\Desktop\ИВТ\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.556,C:\Users\111\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\111\Desktop\ИВТ\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.890,=C:\Users\111\Desktop\ИВТ\Unit19.pas</Transaction>
+  </Transactions>
+</BorlandProject>
